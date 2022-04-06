@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+   }
+
+
+   #login{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   }
+
+   #simple{
+       background-image:url("https://images.pexels.com/photos/4644813/pexels-photo-4644813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ;
+   }
